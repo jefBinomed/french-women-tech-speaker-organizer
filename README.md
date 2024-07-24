@@ -272,3 +272,23 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [TADx](https://www.tadx.fr/)
 - [Touraine Tech](https://touraine.tech/)
 - Tours
+  
+#### Annabelle Koster
+- [AnnabelleKoster](https://x.com/AnnabelleKoster)
+- [DevFest Nantes](https://devfestnantes.gdgnantes.com)
+- Nantes
+
+#### Marie Cauchy
+- [MarueCauchyy](https://x.com/MarieCauchyy)
+- [DevFest Nantes](https://devfestnantes.gdgnantes.com)
+- Nantes
+
+#### Aline Deschamps
+- [AlineDeschamps](https://x.com/alinedeschamps)
+- [DevFest Nantes](https://devfestnantes.gdgnantes.com)
+- Nantes
+
+#### Audrey Le Mercier
+- [ag_lemercier](https://x.com/ag_lemercier)
+- [DevFest Nantes](https://devfestnantes.gdgnantes.com)
+- Nantes
